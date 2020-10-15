@@ -1493,7 +1493,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.9) 100%), url("../img/footer-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.9) 100%), url("../img/astt.gif") center center no-repeat;
   background-size: cover;
 }
 
