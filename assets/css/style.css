@@ -1,9 +1,3 @@
-/**
-* Template Name: Techie - v2.1.0
-* Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -99,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background:  url("../img/mun.gif") center center no-repeat;
+  background:  url("../img/m.gif") center center no-repeat;
 }
 
 
