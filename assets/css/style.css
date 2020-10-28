@@ -1228,7 +1228,7 @@ section {
 # Frequently Asked Questions
 --------------------------------------------------------------*/
 .faq {
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.9) 100%), url("../img/ab.jpg") center center no-repeat;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.9) 100%), url("../img/counts-bg.png") center center no-repeat;
 }
 
 .faq .section-title h2, .faq .section-title p {
